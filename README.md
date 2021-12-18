@@ -1,3 +1,0 @@
-# TheGoodies
-
-All the goodies.
