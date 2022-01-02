@@ -1,0 +1,11 @@
+Metaprogramming - Part I - Elegant Data Wrangling using Dynamic Attributes
+
+load json file
+how find keys/sub-keys in json (for key, value in sorted(feed.items()): print(f'{key}')
+
+
+
+Write on 
+@classmethod decorators
+goose typing
+
