@@ -1,4 +1,4 @@
-package riddle;
+
 
 public class Riddle {
 	
