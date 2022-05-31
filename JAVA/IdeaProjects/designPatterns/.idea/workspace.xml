@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9526f436-7ace-452c-9d2a-9a047ac50c97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/FlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/FlyNoWay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/FlyWithWings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/FlyWithWings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/MallardDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/MiniDuckSimulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/MiniDuckSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/ModelDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/MuteQuack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/Quack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/Quack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/QuackBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/QuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designPattern1/src/main/java/Squeak.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="29HGZgeNXJF1bvOCNMzyOk4lMch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiniDuckSimulator" />
+      <module name="designPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniDuckSimulator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9526f436-7ace-452c-9d2a-9a047ac50c97" name="Changes" comment="" />
+      <created>1652762656529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652762656529</updated>
+    </task>
+    <servers />
+  </component>
+</project>
