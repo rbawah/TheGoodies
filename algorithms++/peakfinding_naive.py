@@ -11,5 +11,12 @@ def find_peak(arr):
    
 
 arr = [ 1, 3, 20, 4, 1, 0 ]
-# n = len(arr)
 print("The peak point is", find_peak(arr))
+
+
+if __name__ == '__main__':
+    import timeit
+    find_peak([ 1, 3, 20, 4, 1, 0 ])
+    #findPeak([ 1, 3, 20, 4, 1, 0 ], len([ 1, 3, 20, 4, 1, 0 ]))
+    print(timeit.timeit("find_peak([ 1, 3, 20, 4, 1, 0 ])", setup="from __main__ import find_peak"))
+    #print(timeit.timeit("findPeak([ 1, 3, 20, 4, 1, 0 ], len([ 1, 3, 20, 4, 1, 0 ]))", setup="from __main__ import findPeak"))
