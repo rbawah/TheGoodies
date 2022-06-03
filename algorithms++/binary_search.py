@@ -2,7 +2,7 @@ def binary_search(list, target):
     first = 0
     last = len(list) - 1
 
-    while first <= last:
+    while first < last:
         midpoint = (first + last)//2
 
         if list[midpoint] == target:
@@ -10,7 +10,7 @@ def binary_search(list, target):
         elif list[midpoint] < target:
             first = midpoint + 1
         else:
-            last = list[midpoint] - 1
+            last = midpoint - 1
     return None
 
 
