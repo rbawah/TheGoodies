@@ -20,5 +20,7 @@ def findpeak_binary(arr):
     return peak
 
 
+
+# test
 arr = [ 1, 3, 20, 4, 1, 0 ]
 print("The peak point is", findpeak_binary(arr))
